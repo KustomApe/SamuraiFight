@@ -1,3 +1,3 @@
 # SamuraiFight
 
-https://xgf.nu/pj9d
+Script to play game.
